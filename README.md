@@ -1,4 +1,4 @@
-<h2> <span  style="margin-bottom: 20px;">Hi, I'm Amir Hossain Rezavand!</span> <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="50"></h2>
+<h2> <span  style="margin-bottom: 20px;">Hi, I'm Amir Hossain Rezavand!<br/>&nbsp;</span> <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="230">
 <p><em>Web Developer in Iran</em></p>
 
