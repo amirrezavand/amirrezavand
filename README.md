@@ -1,5 +1,4 @@
-<h2> <span  style="margin-bottom: 20px;">Hi, I'm Amir Hossain Rezavand!  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="230">
+<h2> <span  style="margin-bottom: 20px;">Hi, I'm Amir Hossain Rezavand!</h2>
 <p><em>Web Developer in Iran</em></p>
 
 [![Linkedin: amirrezavand](https://img.shields.io/badge/-amirrezavand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ir.linkedin.com/in/amir-rezavand-0845341a2)](https://ir.linkedin.com/in/amir-rezavand-0845341a2)
